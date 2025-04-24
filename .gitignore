@@ -1,0 +1,6 @@
+task-backend/node_modules
+tast-frontend/frontend/node_modules
+task-backend/.env
+/build
+/dist
+.DS_Store
